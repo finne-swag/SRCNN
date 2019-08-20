@@ -70,7 +70,7 @@ def preprocess(path, scale=3):
 
   return input_, label_
 
-## question1
+
 ##
 path = 'C:/Users/Administrator/Desktop/deep_learning (copy)/CW1_for_students/CW1_Handout_Template_code/tf-SRCNN/image/butterfly_GT.bmp'
 butterfly = imread(path,False)
